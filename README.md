@@ -1,1 +1,1 @@
-# wafer-server-sdk-demo
+# Weapp Template Project
