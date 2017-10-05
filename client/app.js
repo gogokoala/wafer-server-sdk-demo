@@ -1,7 +1,7 @@
 //app.js
 App({
     config: {
-        host: 'weixin.iotspn.com'
+        host: '199447.qcloud.la'
     },
     onLaunch () {
         console.log('App.onLaunch()');
